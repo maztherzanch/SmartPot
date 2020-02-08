@@ -1,5 +1,7 @@
-Arduino MEGA 2560
-Sensor de luz LDR KY-018
-Sensor de Humedad DHT11 con PCB
-Matriz de LED 8*8 MAX7219
-LCD display 19*2 con I2C
+Arduino MEGA 2560 / Uno R3 / Nano / Mini / Mini PRO
+LDR KY-018
+DHT11 KY-015
+BUZZER KY-012
+HYGROMETER / HIDROMETRO FC-28
+LED 8*8 MATRIX MAX7219
+LCD display 16*2 with I2C
